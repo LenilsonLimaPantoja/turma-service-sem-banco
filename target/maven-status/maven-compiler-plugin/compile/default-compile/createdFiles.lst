@@ -1,0 +1,6 @@
+com\lenilsontsi\turmaservicesembanco\App.class
+com\lenilsontsi\turmaservicesembanco\servico\TurmaSEI.class
+com\lenilsontsi\turmaservicesembanco\modelo\Turma.class
+com\lenilsontsi\turmaservicesembanco\servico\TurmaSIB.class
+com\lenilsontsi\turmaservicesembanco\dao\TurmaImpl.class
+com\lenilsontsi\turmaservicesembanco\dao\TurmaDao.class
